@@ -9,7 +9,6 @@ import Javascript from '../img/javascript.png'
 import Git from '../img/git.jpg'
 import Jenkins from '../img/jenkins.png'
 import ReactJs from '../img/react.svg'
-// import Github from '../img/github.png'
 import Bitbucket from '../img/bitbucket.png'
 import MySql from '../img/mysql.png'
 

@@ -41,7 +41,7 @@ const Navbar = () => {
             <button onClick={() => scrollToSection('banner')} className="hover:text-[#8f6e58] hover:underline">Home</button>
             <button onClick={() => scrollToSection('about')} className="hover:text-[#8f6e58] hover:underline">About</button>
             <button onClick={() => scrollToSection('skills')} className="hover:text-[#8f6e58] hover:underline">Skills</button>
-            <button onClick={() => scrollToSection('contact')} className="hover:text-[#8f6e58] hover:underline">Project</button>
+            <button onClick={() => scrollToSection('project')} className="hover:text-[#8f6e58] hover:underline">Project</button>
           </div>
           <div className="flex items-center sm:hidden">
             <button
