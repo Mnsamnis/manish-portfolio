@@ -29,7 +29,7 @@ const Project = () => {
       description: "This web application is used to detect the weather of any location. Created using React and the Visual Crossing Weather API. Use this application to see the weather of your location.",
       actionButton: {
         title: "Check",
-        link: "#",
+        link: "https://weather-app-black-chi.vercel.app/",
       },
     },
   ]);
