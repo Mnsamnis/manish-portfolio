@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState }  from 'react'
 import Java from '../img/java.png'
 import Html from '../img/html.png'
 import Css from '../img/css.png'
@@ -15,6 +15,9 @@ import MySql from '../img/mysql.png'
 
 
 const Skills = () => {
+
+
+ 
    const [skills, setSkills] = useState([
       {
         id: 1,

@@ -16,7 +16,7 @@ const About = () => {
 
   return (
     <>
-      <div className="main-container  border py-16">
+      <div id="about" className="main-container  border py-16">
         <h1 className="text-center text-[#805d45] pb-16 text-5xl underline font-bold">
           About Me
         </h1>

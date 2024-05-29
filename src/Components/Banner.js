@@ -18,7 +18,7 @@ const Banner = () => {
   }, []);
   return (
     <>
-      <div className="main-container  flex flex-col md:flex-row items-center py-4">
+      <div id="banner" className="main-container  flex flex-col md:flex-row items-center py-4">
         {/* First */}
         <div className="w-full md:w-1/2 flex justify-center ">
           {/* Text */}
