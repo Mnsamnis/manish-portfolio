@@ -11,6 +11,7 @@ import Jenkins from '../img/jenkins.png'
 import ReactJs from '../img/react.svg'
 import Bitbucket from '../img/bitbucket.png'
 import MySql from '../img/mysql.png'
+import PostgreSQL from '../img/postgresql.png'
 
 
 const Skills = () => {
@@ -42,6 +43,12 @@ const Skills = () => {
          imgUrl:MySql,
          name:"MySql"
       },
+      {
+         id:13,
+         imgUrl:PostgreSQL,
+         name:"PostgreSQL"
+      },
+
       {
          id:6,
          imgUrl:Html,

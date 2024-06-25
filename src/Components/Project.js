@@ -9,7 +9,7 @@ const Project = () => {
       description: "I have developed an E-Commerce Web Application using Spring Boot in the backend, React in the frontend, and MySQL database. It has various functionalities like user authentication, adding items to the cart, managing its contents, and seamlessly navigating a secure checkout process to finalize their purchases.",
       actionButton: {
         title: "Check",
-        link: "https://github.com/Mnsamnis/Ecommerce-frontend",
+        link: "https://github.com/Mnsamnis/ECOMMERCE_WEB",
       },
     },
     {
@@ -28,7 +28,7 @@ const Project = () => {
       title: "Weather Detection Application",
       description: "This web application is used to detect the weather of any location. Created using React and the Visual Crossing Weather API. Use this application to see the weather of your location.",
       actionButton: {
-        title: "Check",
+        title: "Try it!",
         link: "https://weather-app-black-chi.vercel.app/",
       },
     },
@@ -48,6 +48,7 @@ const Project = () => {
               {project.actionButton.title}
             </a>
             </div>
+
           </div>
         ))}
       </div>
